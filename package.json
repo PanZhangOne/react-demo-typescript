@@ -6,6 +6,7 @@
     "email": "zone01@live.cn",
     "url": "https://github.com/PanZhangOne/"
   },
+  "homepage": "https://panzhangone.github.io/react-demo-typescript/",
   "license": "MIT",
   "private": true,
   "dependencies": {
